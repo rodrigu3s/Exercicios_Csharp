@@ -1,13 +1,13 @@
 # Exercicios_Csharp
 
-Lista de Exercicios da Disciplina Ling. de Programação Estruturada.
-Linguagem Utilizada: C# 
-Praticando o Aprendizado de Class e Metodos. 
-
-Instituto Pernambucano de Ensino Superior
-IPESU - FAREC
-Professor: Romulo Lima
-Aluno: João Rodrigues
-Curso: Bacharelado em Ciência da Computação
-Periodo: 2 / 8
-Disciplina: Ling. de Programação Estruturada
+Lista de Exercicios da Disciplina Ling. de Programação Estruturada.<br/>
+Linguagem Utilizada: C# <br/>
+Praticando o Aprendizado de Class e Metodos.</br> 
+<br/>
+Instituto Pernambucano de Ensino Superior </br> 
+IPESU - FAREC </br> 
+Professor: Romulo Lima </br> 
+Aluno: João Rodrigues </br> 
+Curso: Bacharelado em Ciência da Computação </br> 
+Periodo: 2 / 8 </br> 
+Disciplina: Ling. de Programação Estruturada </br> 
